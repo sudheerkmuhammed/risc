@@ -1,0 +1,65 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+\usetheme{Warsaw}
+\usefonttheme{serif}
+\institute{Bhabha Atomic Research Center}
+\title{The RISC V Revolution}
+\author{Sudheer K. Mohammed}
+\begin{document}
+\begin{frame}[plain]
+ \maketitle
+\end{frame}
+\begin{frame}[plain]
+\frametitle{Outline} % The title of the frame
+\tableofcontents
+\end{frame}
+\section{Introduction}
+\begin{frame}
+\frametitle{Introduction}
+\begin{enumerate}
+\item The Duopoly (x86 vs ARM)(CISC vs RISC)
+\pause
+\item The patent restrictions
+\pause
+\item The academic restrictions (The Origins at UC Berkeley (2010))
+\pause
+\item open-source ISA from scratch
+\end{enumerate}
+\end{frame}
+\subsection{Why RISC V Matters?}
+\begin{frame}
+\frametitle{Why RISC V Matters}
+\begin{enumerate}
+\item \textbf{No Licensing Fees:} Companies and researchers can design custom processor cores without paying royalties to vendor companies.
+
+\item \textbf{Geopolitical Neutrality:} Being open-source, it reduces dependence on single corporate vendors or foreign export-control regulations.
+
+\item \textbf{Academic & Commercial Adoption:} It is widely used in microcontrollers, hard drive controllers (e.g., Western Digital), AI accelerators, automotive chips, and embedded systems, with growing support for Linux and Android desktop/server platforms.
+\end{enumerate}
+\end{frame}
+\subsection{History of RISC V}
+\begin{frame}
+\frametitle{History of RISC V}
+
+\end{frame}
+\section{Architecture and Features}
+\begin{frame}
+\frametitle{Architecture and Features}
+\end{frame}
+\section{Hardware Implementations}
+\begin{frame}
+\frametitle{Hardware Implementations}
+\end{frame}
+\section{How to get Started}
+\begin{frame}
+\frametitle{How to get Started}
+\end{frame}
+
+\section{Conclusion}
+\begin{frame}[plain]
+\frametitle{Conclusion}
+\end{frame}
+
+
+\end{document}
